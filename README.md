@@ -49,8 +49,12 @@ I was also able to use advanced excel formulas like the XLOOKUP function to join
 ### Exploratory Data Analysis and Visualization
 This project contains one report page.
 
-![](image/dashboard.png)
+![](image/Dashboard.png)
 
+### Findings
+
+
+### Recommendations
 
 
 
