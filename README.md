@@ -19,8 +19,7 @@ revenue?
 ---
 
 ### Data Source
-The primary dataset used for this analysis is the "Sales_Data_Qtr_1.csv" file, 
- with three worksheets containing detailed information.
+The primary dataset used for this analysis was gotten from [Sales_Data_Qtr_1](https://kaggle.com), a csv file with three worksheets containing detailed information.
 
  - Sales Data Qrt 1
 
@@ -50,7 +49,7 @@ I was also able to use advanced excel formulas like the XLOOKUP function to join
 ### Exploratory Data Analysis and Visualization
 This project contains one report page.
 
-![]("image/dashboard.png")
+![](image/dashboard.png)
 
 
 
