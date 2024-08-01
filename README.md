@@ -43,7 +43,9 @@ Before I began the analysis process, the following tasks were performed;
 3. Data cleaning and formatting.
 
 4. Removing Duplicates.
+
 I was also able to use advanced excel formulas like the XLOOKUP function to join my worksheets in other to answer the business questions efficiently
+
 ---
 
 ### Exploratory Data Analysis and Visualization
@@ -52,6 +54,14 @@ This project contains one report page.
 ![](image/Dashboard.png)
 
 ### Findings
+
+Looking at our performance from the first quarter sales we can see that; the month of March contributed the highest revenue. The sales team did a great work which led to a remarkable result. However, January lagged behind in terms of revenue. We have to analyze the reasons behind this and strategize for improvement in the coming months.
+Also, San Francisco has the highest number of orders. The marketing team is working exceptionally. On the other hand, Austin had the fewest orders. There is need to explore opportunities to boost sales in San Francisco.
+Our AAA batteries were the best-selling product by quantity, with 6,036 quantities sold. This demonstrates strong demand and customer satisfaction. Unfortunately, the LG dryer had the lowest sales volume, with only 126 quantities sold. An evaluation of marketing and positioning for this product should be done. 
+San Francisco again generated the highest revenue of over a million-dollars. While Austin generated the least revenue of over $350,000. There is need for targeted efforts to boost sales in this market.
+The Macbook Pro laptop is the best selling product by revenue generating over a million dollars in revenue. This product therefore deserves continued focus. In contrast, AAA batteries generated the least revenue of $18,000. We can explore ways to enhance their profitability.
+
+
 
 
 ### Recommendations
