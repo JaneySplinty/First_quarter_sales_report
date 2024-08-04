@@ -53,18 +53,21 @@ This project contains one report page.
 
 ![](image/Dashboard.png)
 
+---
 ### Findings
 
-Looking at our performance from the first quarter sales we can see that; the month of March contributed the highest revenue. The sales team did a great work which led to a remarkable result. However, January lagged behind in terms of revenue. We have to analyze the reasons behind this and strategize for improvement in the coming months.
-Also, San Francisco has the highest number of orders. The marketing team is working exceptionally. On the other hand, Austin had the fewest orders. There is need to explore opportunities to boost sales in San Francisco.
-Our AAA batteries were the best-selling product by quantity, with 6,036 quantities sold. This demonstrates strong demand and customer satisfaction. Unfortunately, the LG dryer had the lowest sales volume, with only 126 quantities sold. An evaluation of marketing and positioning for this product should be done. 
-San Francisco again generated the highest revenue of over a million-dollars. While Austin generated the least revenue of over $350,000. There is need for targeted efforts to boost sales in this market.
-The Macbook Pro laptop is the best selling product by revenue generating over a million dollars in revenue. This product therefore deserves continued focus. In contrast, AAA batteries generated the least revenue of $18,000. We can explore ways to enhance their profitability.
+1. Looking at the first quarter sales performance we can see that; the month of March contributed the highest revenue. The sales team did a great work which led to a remarkable result. However, January lagged behind in terms of revenue. Therefore, there is a need to analyze the reasons behind this and strategize for improvement in the coming months.
+2. Also, San Francisco has the highest number of orders. The marketing team worked exceptionally. On the other hand, Austin had the fewest orders. There is need to explore opportunities to boost sales in San Francisco.
+3. AAA batteries were the best-selling product by quantity with **6,036** quantities sold. This demonstrates strong demand and customer satisfaction. Unfortunately, the LG dryer had the lowest sales volume, with only **126** quantities sold. An evaluation of marketing and positioning for this product should be done. 
+4. San Francisco again generated the highest revenue of over a million-dollars. While Austin generated the least revenue of over **$350,000**. There is need for targeted efforts to boost sales in this market.
+5. The Macbook Pro laptop is the best selling product by revenue generating over a million dollars in revenue. This product therefore deserves continued focus. In contrast, AAA batteries generated the least revenue of **$18,000**. Ways to enhance their profitability can be explored.
 
-
-
-
+---
 ### Recommendations
+1. Focus marketing efforts on profitable products such as the MacBook Pro laptop. 
+2. Create a customized plan to increase revenue for Austin. Think about regional collaborations and marketing initiatives.
+3. Boost sales of the LG dryer, consider adjusting the price or offering bundles.
+4. Talk to customers who bought AAA batteries to learn more about their requirements.
 
 
 
