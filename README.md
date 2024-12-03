@@ -1,5 +1,5 @@
-## SALES ANALYSIS
-    By Janet Minaseidiema
+## FIRST QUARTER SALES ANALYSIS
+    
 ---
 
 ### Project Overview
